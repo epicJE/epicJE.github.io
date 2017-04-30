@@ -118,6 +118,7 @@ a:after {
 	text-align: left;
 	margin-left: 20px;
 	margin-top: 15px;
+	min-height: 50px;
 }
 
 
