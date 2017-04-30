@@ -79,19 +79,19 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/header.png) no-repeat center 50px 100px;
+	background: url(../img/header.png) no-repeat center top;
 	margin-top: -10px;
 	padding-top:20px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
 	min-height: 700px;
-	width: 100%;
+	width: 80%;
 	
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+    -webkit-background-size: 80%;
+    -moz-background-size: 80%;
+    -o-background-size: 80%;
+    background-size: 80%;
 
     -webkit-background-size: cover;
     -moz-background-size: cover;
