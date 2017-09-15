@@ -124,6 +124,22 @@ a:after {
 
 /* Footer Wrap */
 
+#f1
+{
+	background: #1a1a1a; /* #1a1a1a*/
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center
+}
+
+#f1 h2{
+	color: white;
+	font-size: 40px;
+	font-weight: 700;
+	letter-spacing: 1px;
+
+}
+
 #f {
 	background: #1a1a1a; /* #1a1a1a*/
 	padding-top: 70px;
