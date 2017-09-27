@@ -87,7 +87,7 @@ a:after {
 	background-position: center center;
 	min-height: 450px;
 	width: 100%;
-	
+
     -webkit-background-size: 50%;
     -moz-background-size: 50%;
     -o-background-size: 50%;
@@ -151,13 +151,13 @@ a:after {
 	color: white;
 	font-size: 28px;
 	font-weight: 700;
-	letter-spacing: 1px;	
+	letter-spacing: 1px;
 }
 
 #f i {
-	font-size: 8px;
+	font-size: 20px;
 	color: #fff;
-    padding: 3px;
+    padding: 30px;
 }
 
 #f p {
@@ -237,7 +237,7 @@ a:after {
 .menu a > i {
 	float: left;
 	display: inline-block;
-	vertical-align: middle; 
+	vertical-align: middle;
 	text-align: left;
 	width: 25px;
 	font-size: 14px;
@@ -326,5 +326,3 @@ a:after {
 		 -o-transition: all .1s ease-in-out;
 			transition: all .1s ease-in-out;
 }
-
-
