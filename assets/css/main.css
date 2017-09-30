@@ -344,8 +344,8 @@ a:after {
 }
 
 .bigbox{
-  height: 410px;
-  width: 360px;
+  height: 330px;
+  width: 288px;
   background-color: #A9A9A9;
   margin-left: 5px;
   margin-top: 5px;
@@ -397,4 +397,8 @@ a:after {
 {
 	padding-top: 50px;
 	padding-bottom: 50px;
+}
+
+.textteam{
+padding-bottom:0px;
 }
