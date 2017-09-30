@@ -331,7 +331,10 @@ a:after {
 
   margin: auto;
   width:80%;
-  padding-top: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+
 }
 
 #f100
@@ -344,8 +347,8 @@ a:after {
 }
 
 .bigbox{
-  height: 330px;
-  width: 288px;
+  height: 410px;
+  width: 360px;
   background-color: #A9A9A9;
   margin-left: 5px;
   margin-top: 5px;
@@ -399,6 +402,5 @@ a:after {
 	padding-bottom: 50px;
 }
 
-.textteam{
-padding-bottom:0px;
-}
+
+
