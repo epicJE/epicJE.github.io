@@ -343,7 +343,7 @@ a:after {
 
 }
 
-.bigbox{
+#bigbox{
   height: 330px;
   width: 288px;
   background-color: #A9A9A9;
@@ -359,7 +359,7 @@ a:after {
 
 }
 
-.box {
+#box {
   position: relative;
   min-height: 1px;
   /*padding-left: 15px;
@@ -367,7 +367,7 @@ a:after {
   padding-top: 5px;
 
 }
-.fig{
+#fig{
   /*font-style: normal;
   font-weight: normal;
   speak: none;
@@ -379,7 +379,7 @@ a:after {
   line-height: 1em;*/
 }
 
-.joaomoniz{
+#joaomoniz{
   background-image: url(assets/img/joaomoniz2.png);
   background-size: cover;
   background-position: center center;
