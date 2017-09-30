@@ -331,7 +331,7 @@ a:after {
 
   margin: auto;
   width:80%;
-  height:600px;
+
 }
 
 #f100
@@ -344,23 +344,31 @@ a:after {
 }
 
 .bigbox{
-  height: 300px;
+  height: 410px;
   width: 360px;
   background-color: #A9A9A9;
   margin-left: 5px;
   margin-top: 5px;
   float:left;
 
+  border-bottom-left-radius: 0.25em;
+  border-bottom-right-radius: 0.25em;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
+
+
 }
 
 .box {
   position: relative;
-    min-height: 1px;
-    padding-left: 15px;
-    padding-right: 15px;
+  min-height: 1px;
+  /*padding-left: 15px;
+  padding-right: 15px;*/
+  padding-top: 5px;
+
 }
 .fig{
-  font-style: normal;
+  /*font-style: normal;
   font-weight: normal;
   speak: none;
   display: inline-block;
@@ -368,11 +376,11 @@ a:after {
   width: 1em;
   margin-right: 0;
   text-align: center;
-  line-height: 1em;
+  line-height: 1em;*/
 }
 
 .joaomoniz{
-  background-image: url(assets/img/joaomoniz.png);
+  background-image: url(assets/img/joaomoniz2.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
