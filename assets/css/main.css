@@ -176,20 +176,19 @@ a:after {
 
 .overlay {
   position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
+  top: 50px;
+  bottom: 0px;
+  left: 15px;
+  right: 0px;
+  height: 70%;
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #008CBA;
+  background-color: #B4B4B4;
 }
 
 
-.imgCC:hover .overlay {
-  opacity: 1;
+.imgCC{
 
   width: 100%
 
@@ -203,10 +202,12 @@ a:after {
   margin-left: 12%
 }
 
-.imgContainer{
+.imgContainer {
+  position: relative;
     float:left;
     /* margin-left: 15px; */
     padding-left: 25px;
+
 }
 
 .text {
@@ -218,6 +219,10 @@ a:after {
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
+
+.imgContainer:hover .overlay {
+    opacity: 0.9;
+  }
 
 .menu {
 	position: fixed;
