@@ -172,6 +172,11 @@ a:after {
 
 /* MENU CONF*/
 
+
+.imgContainer{
+    float:left;
+}
+
 .menu {
 	position: fixed;
 	right: -200px;
